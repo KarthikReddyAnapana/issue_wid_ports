@@ -1,0 +1,7 @@
+Sometimes when you have to use the mysql and it does not start, it can really be very tedious. 
+
+So what you do is, go to command prompt and then, services.msc, after that you check what is using hte mysql
+
+you stop the process, restart it stop it. 
+
+After that you run your process in the desired place & it works boom!
